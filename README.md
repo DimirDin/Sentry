@@ -12,7 +12,3 @@
 ## Задание 3
 ### Тело письма-оповещения
 ![Email alert](screenshots/task3-email.png)
-
-## Задание повышенной сложности
-### Issues проекта
-![Issues](screenshots/task4-issues.png)
